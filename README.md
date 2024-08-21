@@ -1,7 +1,8 @@
 # Пример генерации хендлеров по OpenAPI спецификации
 
 
-Генерацию можно выполнить через мэйкфайл по меткам **codegen_fiber** и **codegen_without_fiber**.
+* Для генерации используется - github.com/deepmap/oapi-codegen
+* Генерацию можно выполнить через мэйкфайл по меткам **codegen_fiber** и **codegen_without_fiber**.
 
 ---
 
